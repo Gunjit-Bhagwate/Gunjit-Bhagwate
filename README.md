@@ -1,8 +1,3 @@
-- Based on your LinkedIn profile and the uploaded files, here's a clean and professional README.md for your GitHub profile that reflects your experience, skills, and passion:
-
-
----
-
 # Hi there, I'm Gunjit Bhagwate!
 
 *Tech & Content Enthusiast | Campus Ambassador | Blogger | Aspiring Developer*
