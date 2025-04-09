@@ -37,7 +37,7 @@ I'm a Computer Science undergrad at IES IPS Academy (Batch of 2028), passionate 
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/gunjit-bhagwate)
+- [LinkedIn](https://www.linkedin.com/in/gunjit-bhagwate-b2a789330/)
 - [Blog](https://wordsbyresonant.wordpress.com)
 - [Email](mailto:gunjitbhagwate4@gmail.com)
 
